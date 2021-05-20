@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sidebar_zip_code_checker\n"
+"POT-Creation-Date: 2014-11-02 16:47+0530\n"
+"PO-Revision-Date: 2014-11-02 17:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../.\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: .././sidebar-zip-code-checker.php:80
+msgid "Please enter your zip code"
+msgstr "Renseignez votre mot de passe s'il vous plait"
+
+#: .././sidebar-zip-code-checker.php:83
+msgid "Via"
+msgstr ""
+
+#: .././sidebar-zip-code-checker.php:84
+#: .././includes/class-list-table-zip-code-checker-widget.php:339
+msgid "COD"
+msgstr "paiement à la livraison"
+
+#: .././sidebar-zip-code-checker.php:85
+msgid "Delivery"
+msgstr "livraison"
+
+#: .././sidebar-zip-code-checker.php:86
+msgid "Message"
+msgstr "Message"
+
+#: .././sidebar-zip-code-checker.php:108
+msgid "Are you sure of doing this? Note : This action can not be reverted."
+msgstr ""
+"Etes-vous sûr de cela? Remarque: Cette action ne peut pas être inversé."
+
+#: .././sidebar-zip-code-checker.php:175
+msgid " Product cannot be delivered at your pincode location."
+msgstr "Le produit ne peut être livré à votre emplacement de code PIN "
+
+#: .././sidebar-zip-code-checker.php:178
+msgid "Please enter a valid zip code."
+msgstr "Renseignez votre mot de passe s'il vous plait"
+
+#: .././includes/class-install-zip-code-checker-widget.php:83
+#: .././includes/class-install-zip-code-checker-widget.php:90
+msgid "560078"
+msgstr ""
+
+#: .././includes/class-install-zip-code-checker-widget.php:84
+#: .././includes/class-install-zip-code-checker-widget.php:105
+msgid "India Post"
+msgstr "La poste indienne"
+
+#: .././includes/class-install-zip-code-checker-widget.php:85
+#: .././includes/class-install-zip-code-checker-widget.php:92
+#: .././includes/class-install-zip-code-checker-widget.php:99
+#: .././includes/class-install-zip-code-checker-widget.php:106
+msgid "done"
+msgstr "fini"
+
+#: .././includes/class-install-zip-code-checker-widget.php:86
+#: .././includes/class-install-zip-code-checker-widget.php:107
+msgid ""
+"Yes. Delivery time can be up to 25 days. Might have to pick up from post "
+"office"
+msgstr ""
+"Oui. Délai de livraison peut aller jusqu'à 25 jours. Pourrait avoir à "
+"ramasser de bureau de poste"
+
+#: .././includes/class-install-zip-code-checker-widget.php:87
+#: .././includes/class-install-zip-code-checker-widget.php:108
+#: .././includes/class-list-table-zip-code-checker-widget.php:131
+#: .././includes/class-list-table-zip-code-checker-widget.php:137
+#: .././includes/class-list-table-zip-code-checker-widget.php:215
+#: .././includes/class-list-table-zip-code-checker-widget.php:221
+msgid "No"
+msgstr "Aucun"
+
+#: .././includes/class-install-zip-code-checker-widget.php:91
+#: .././includes/class-install-zip-code-checker-widget.php:98
+msgid "FedEx"
+msgstr "FedEx"
+
+#: .././includes/class-install-zip-code-checker-widget.php:93
+#: .././includes/class-install-zip-code-checker-widget.php:94
+#: .././includes/class-install-zip-code-checker-widget.php:100
+#: .././includes/class-install-zip-code-checker-widget.php:101
+#: .././includes/class-list-table-zip-code-checker-widget.php:130
+#: .././includes/class-list-table-zip-code-checker-widget.php:136
+#: .././includes/class-list-table-zip-code-checker-widget.php:214
+#: .././includes/class-list-table-zip-code-checker-widget.php:220
+msgid "Yes"
+msgstr "Oui"
+
+#: .././includes/class-install-zip-code-checker-widget.php:97
+#: .././includes/class-install-zip-code-checker-widget.php:104
+msgid "560079"
+msgstr ""
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:91
+#: .././includes/class-list-table-zip-code-checker-widget.php:180
+#: .././includes/class-list-table-zip-code-checker-widget.php:418
+#: .././includes/class-list-table-zip-code-checker-widget.php:640
+msgid "Zip Code List Table"
+msgstr ""
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:94
+msgid "Items edited."
+msgstr "Articles modifiés."
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:95
+msgid "Items skipped. (most likely due to empty values or duplicate entries)"
+msgstr ""
+"Articles ignorés. ( probablement dû à des valeurs vides ou les entrées en "
+"double )"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:126
+#: .././includes/class-list-table-zip-code-checker-widget.php:210
+msgid "Company Name should be FedEx,India Post."
+msgstr "Nom de l'entreprise devrait être FedEx , la poste indienne ."
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:127
+#: .././includes/class-list-table-zip-code-checker-widget.php:211
+msgid "Add message here"
+msgstr "Ajouter un message ici"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:144
+msgid "Update"
+msgstr "mettre à jour"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:183
+msgid "Item inserted."
+msgstr "Article inséré ."
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:184
+msgid " Item skipped. (most likely due to empty values or duplicate entries)"
+msgstr ""
+"Point sauté . ( probablement dû à des valeurs vides ou les entrées en "
+"double )"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:225
+msgid "Insert"
+msgstr "Insérer"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:288
+msgid "Edit"
+msgstr "éditer"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:289
+msgid "Delete"
+msgstr "effacer"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:335
+msgid "Zip Code"
+msgstr "Code postal"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:336
+msgid "Company(<i> Company Name should be FedEx,India Post. </i>)"
+msgstr ""
+"Société ( <i > Nom de l'entreprise devrait être FedEx , la poste indienne . "
+"</i > )"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:337
+msgid "message"
+msgstr "message"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:338
+msgid "Delivery ( <i>FedEx status must be Yes. </i>)"
+msgstr "Livraison ( <i > statut FedEx doit être Oui . </i > )"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:612
+#: .././includes/class-shortcode-zip-code-checker-widget.php:138
+#: .././includes/class-shortcode-zip-code-checker-widget.php:153
+#: .././includes/class-sidebar-zip-code-checker-widget.php:25
+msgid "Zip Code Checker"
+msgstr "Code Postal Checker"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:613
+msgid "All Zip Codes"
+msgstr "Tous postal Codess"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:614
+msgid "Add Zip Codes"
+msgstr "Ajouter des codes postaux"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:640
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:643
+msgid "Here we can edit and delete zip codes."
+msgstr "Ici, nous pouvons modifier et supprimer des codes postaux ."
+
+#: .././includes/class-list-table-zip-code-checker-widget.php:643
+msgid "Note : This action can not be reverted"
+msgstr "Remarque: Cette action ne peut pas être inversée"
+
+#: .././includes/class-shortcode-zip-code-checker-widget.php:139
+msgid "zip_code_checker"
+msgstr ""
+
+#: .././includes/class-shortcode-zip-code-checker-widget.php:140
+msgid "This widget area can be used for [zip_code_checker_widget] shortcode."
+msgstr ""
+"Cette zone de widget peut être utilisé pour [ zip_code_checker_widget ] "
+"shortcode ."
+
+#: .././includes/class-shortcode-zip-code-checker-widget.php:154
+msgid "Shortcode"
+msgstr ""
+
+#: .././includes/class-shortcode-zip-code-checker-widget.php:154
+msgid "Please save this first."
+msgstr "Se il vous plaît enregistrer cette première ."
+
+#: .././includes/class-sidebar-zip-code-checker-widget.php:22
+msgid "Displays a zip code checker area in the sidebar."
+msgstr "Affiche une zone de connexion dans la sidebar."
+
+#: .././includes/class-sidebar-zip-code-checker-widget.php:38
+msgid "Title"
+msgstr "titre"
+
+#: .././includes/class-sidebar-zip-code-checker-widget.php:39
+#: .././includes/class-sidebar-zip-code-checker-widget.php:91
+msgid "Check Product Availability At"
+msgstr "Vérifiez la disponibilité du produit A"
+
+#: .././includes/class-sidebar-zip-code-checker-widget.php:43
+msgid "Display COD status"
+msgstr "Afficher l'état COD"
+
+#: .././includes/class-sidebar-zip-code-checker-widget.php:48
+msgid "Display Company Name"
+msgstr "Afficher Nom de l'entreprise"
+
+#: .././includes/class-sidebar-zip-code-checker-widget.php:56
+msgid "Change Font Size"
+msgstr "Taille de la police"
+
+#: .././includes/class-sidebar-zip-code-checker-widget.php:61
+msgid "Change Color"
+msgstr "Changer la couleur"
+
+#: .././includes/class-sidebar-zip-code-checker-widget.php:66
+msgid "Change Font Family"
+msgstr "Famille Changer la police"
+
+#: .././includes/class-sidebar-zip-code-checker-widget.php:96
+msgid "inherit"
+msgstr ""
+
+#: .././includes/class-sidebar-zip-code-checker-widget.php:114
+msgid "Verify"
+msgstr "vérifier"
+
+#: .././includes/csv-importer/csv_importer.php:76
+msgid "Import Zip Codes in CSV Format"
+msgstr "Codes postaux importation au format CSV"
+
+#: .././includes/csv-importer/csv_importer.php:79
+msgid "Upload file:"
+msgstr "Télécharger un fichier :"
+
+#: .././includes/csv-importer/csv_importer.php:81
+msgid "Import"
+msgstr "importation"
+
+#: .././includes/csv-importer/csv_importer.php:137
+msgid "No file uploaded, aborting."
+msgstr "Aucun fichier téléchargé, avorter ."
+
+#: .././includes/csv-importer/csv_importer.php:143
+msgid ""
+"You don't have the permissions to publish posts and pages. Please contact "
+"the blog's administrator."
+msgstr ""
+"Vous ne disposez pas des autorisations de publier les messages et les "
+"pages . Se il vous plaît contactez l'administrateur du blog."
+
+#: .././includes/csv-importer/csv_importer.php:156
+msgid "Failed to load file, aborting."
+msgstr "Impossible de charger le fichier , l'interruption ."
+
+#: .././includes/csv-importer/csv_importer.php:189
+msgid "Skipped"
+msgstr "est arrêté"
+
+#: .././includes/csv-importer/csv_importer.php:189
+msgid " rows (most likely due to empty values or duplicate entries.)"
+msgstr ""
+"lignes ( probablement dû à des valeurs vides ou des entrées en double. )"
+
+#: .././includes/csv-importer/csv_importer.php:191
+msgid "Imported"
+msgstr "importé"
+
+#: .././includes/csv-importer/csv_importer.php:191
+#, php-format
+msgid " rows in %.2f seconds"
+msgstr "les lignes de %.2f Secondes"
+
+#: .././includes/csv-importer/csv_importer.php:234
+msgid "Getting rid of byte order mark..."
+msgstr "Se débarrasser de Byte Order Mark ..."
+
+#: .././includes/csv-importer/csv_importer.php:239
+msgid "Failed to get file contents."
+msgstr "Impossible d'obtenir le contenu des fichiers ."
+
+#: .././includes/csv-importer/csv_importer.php:244
+msgid "Failed to put file contents."
+msgstr "Impossible de mettre le contenu du fichier ."
+
+#: .././includes/csv-importer/csv_importer.php:250
+msgid "Failed to open file, aborting."
+msgstr "Impossible d'ouvrir le fichier , l'interruption ."
+
+#: .././includes/csv-importer/csv_importer.php:260
+msgid "CSV Importer For Zip Code"
+msgstr "CSV importateur code postal"
